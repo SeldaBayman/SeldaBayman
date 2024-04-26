@@ -3,6 +3,7 @@
 - 👀 I’m interested in Data Analyst,Machine Learning, Sql and Phyton,Power BI. 
 - 🌱 I’m currently learning Sql,Phyton,Power BI.
 - 📫 How to reach me seldabayman@gmail.com
+- my linked in: https://www.linkedin.com/in/selda-bayman-b35ba871/
 - 😄 Pronouns:  
 - ⚡ Fun fact: 
 <!---
