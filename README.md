@@ -49,6 +49,23 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 
 [View Project](#)
 
+-
+### 📈 Sotify Youtube EDA Project
+**Objective:** Analyze Spotify and Youtube Data Insights
+
+**Tools Used:** Phyton
+
+**Approach:**
+- Extracted and cleaned data using Phyton.
+- Analyzed data with Pandas,Numpy in Python.
+- Visualized trends and patterns using Matplotlib,Seaborn.
+
+**Outcome:** I am a data enthusiast with a passion for exploring and analyzing datasets to uncover trends and insights. 
+Recently, I completed an Exploratory Data Analysis (EDA) project comparing Spotify music data and YouTube video data. 
+Identified key EDA factors, helping develop targeted retention strategies.
+This project dives into user engagement patterns and content success factors across both platforms.
+
+📊 Check out the full analysis here: Spotify-YouTube EDA
 
 ## 🎓 Achievements
 - Completed [Kodlasam] from [Data Camp].
