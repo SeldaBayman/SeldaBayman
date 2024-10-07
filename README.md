@@ -66,8 +66,8 @@ Recently, I completed an Exploratory Data Analysis (EDA) project comparing Spoti
 Identified key EDA factors, helping develop targeted retention strategies.
 This project dives into user engagement patterns and content success factors across both platforms.
 
-📊 Check out the full analysis here: Spotify-YouTube EDA
-[View Project](#) https://github.com/SeldaBayman/Spotify_Youtube_EDA
+[View Project](#) 
+https://github.com/SeldaBayman/Spotify_Youtube_EDA
 
 ## 🎓 Achievements
 - Completed [Kodlasam] from [Data Camp].
