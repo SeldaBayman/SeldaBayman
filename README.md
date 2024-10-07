@@ -50,7 +50,7 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 [View Project](#)
 
 -
-### 📈 Sotify & Youtube EDA Project
+### 📈 Spotify & Youtube EDA Project
 **Objective:** Analyze Spotify and Youtube Data Insights
 
 **Tools Used:** Phyton
