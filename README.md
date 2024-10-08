@@ -4,6 +4,7 @@
 I am a Junior Data Analyst with a passion for transforming data into actionable insights. My journey in data analysis started with a curiosity about how data can drive decision-making, leading me to learn  Excel, SQL, Python, and Power BI. Over time, I've completed several projects that highlight my analytical skills and ability to tell compelling data stories.
 
 ## 🛠 Skills
+-**Excel**: Excel formulas, excel calculates and data maipulation
 - **SQL**: Complex queries, window functions, data aggregation
 - **Python**: Data manipulation with Pandas, data visualization with Matplotlib and Seaborn, statistical analysis
 - **Power BI**: Interactive dashboards, DAX for data modeling, report sharing
@@ -21,8 +22,8 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 
 ## 🏆 Projects
 
-### 📈 Customer Churn Analysis
-**Objective:** Analyze customer churn data to identify patterns and predict future churn.
+### 📈 Northwind Customer  Analysis
+**Objective:** Analyze customer trend data to identify patterns .
 
 **Tools Used:** SQL
 
@@ -31,14 +32,14 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 - Analyzed data with Pandas in Python.
 - Visualized trends and patterns using Matplotlib.
 
-**Outcome:** Identified key churn factors, helping develop targeted retention strategies.
+**Outcome:** Identified key trader factors, helping develop targeted loyal customer strategies.
 
 [View Project](#)
 
 ### 📊 Sales Dashboard
 **Objective:** Develop an interactive sales dashboard to monitor key performance metrics.
 
-**Tools Used:** Power BI
+**Tools Used:** Power BI 
 
 **Approach:**
 - Connected to various data sources in Power BI.
