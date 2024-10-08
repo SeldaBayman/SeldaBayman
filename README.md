@@ -48,7 +48,7 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 
 **Outcome:** Enabled stakeholders to make data-driven decisions with real-time sales insights.
 
-[View Project](#)
+[View Project](#)https://github.com/SeldaBayman/Northwind_Traders/blob/main/3_Sales.PNG
 
 -
 ### 📈 Spotify & Youtube EDA Project
@@ -67,12 +67,12 @@ Recently, I completed an Exploratory Data Analysis (EDA) project comparing Spoti
 Identified key EDA factors, helping develop targeted retention strategies.
 This project dives into user engagement patterns and content success factors across both platforms.
 
-[View Project](#) 
-https://github.com/SeldaBayman/Spotify_Youtube_EDA
+[View Project](#) https://github.com/SeldaBayman/Spotify_Youtube_EDA
 
 ## 🎓 Achievements
 - Completed [Kodlasam] from [Data Camp].
 - Recognized for outstanding performance in [EDA/ Brazilian_Ecommerce Data Analysis/.....].
+- https://github.com/SeldaBayman/Northwind_Traders/blob/main/3_Sales.PNG
 
 ## 🎯 Future Goals
 As I advance in my career, I aim to deepen my expertise in machine learning and advanced analytics. My goal is to apply these skills to solve real-world problems and drive business growth, while staying updated with the latest industry trends.
