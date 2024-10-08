@@ -34,7 +34,7 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 
 **Outcome:** Identified key trader factors, helping develop targeted loyal customer strategies.
 
-[View Project](#)
+[View Project](#)https://github.com/SeldaBayman/Northwind_Traders/tree/main/Customer_Analysis
 
 ### 📊 Sales Dashboard
 **Objective:** Develop an interactive sales dashboard to monitor key performance metrics.
