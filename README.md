@@ -71,7 +71,8 @@ This project dives into user engagement patterns and content success factors acr
 
 ## 🎓 Achievements
 - Completed [Kodlasam] from [Data Camp].
-- Recognized for outstanding performance in [EDA/ Brazilian_Ecommerce Data Analysis/.....].
+- Recognized for outstanding performance in [EDA/ Brazilian_Ecommerce Data Analysis/Northwind Traders Data Analysis/Kohort Analysis etc.].
+- https://github.com/SeldaBayman/Brazilian_Ecommerce_Data_Analysis
 - https://github.com/SeldaBayman/Northwind_Traders/blob/main/3_Sales.PNG
 
 ## 🎯 Future Goals
