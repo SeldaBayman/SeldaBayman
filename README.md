@@ -80,7 +80,9 @@ As I advance in my career, I aim to deepen my expertise in machine learning and 
 
 ## 📫 Connect with Me
 - [LinkedIn]( https://www.linkedin.com/in/selda-bayman-b35ba871/)
-- [DataWars]((https://profiles.datawars.io/seldabayman))
+- Datawars (https://profiles.datawars.io/seldabayman)
+- Hackerrank (https://www.hackerrank.com/profile/seldabayman)
+- Kaggle (                                                )
 - [Personal email](seldabayman@gmail.com)
 
 
