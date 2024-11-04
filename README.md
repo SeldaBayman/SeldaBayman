@@ -49,7 +49,7 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 **Outcome:** Enabled stakeholders to make data-driven decisions with real-time sales insights.
 
 [View Project](#)https://github.com/SeldaBayman/Northwind_Traders/blob/main/3_Sales.PNG
-
+https://github.com/SeldaBayman/Global_Superstore_Sales_2
 -
 ### 📈 Spotify & Youtube EDA Project
 **Objective:** Analyze Spotify and Youtube Data Insights
