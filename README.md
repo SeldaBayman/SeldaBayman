@@ -1,7 +1,14 @@
 # 👋 Hi, I'm [Selda Bayman]
 
 ## 🚀 About Me
-I am a Junior Data Analyst with a passion for transforming data into actionable insights. My journey in data analysis started with a curiosity about how data can drive decision-making, leading me to learn  Excel, SQL, Python, and Power BI. Over time, I've completed several projects that highlight my analytical skills and ability to tell compelling data stories.
+I am a Junior Data Analyst with a passion for transforming data into actionable insights. My journey in data analysis started with a curiosity about how data can drive decision-making, leading me to learn  Excel, SQL, Python, and Power BI. Over time, I've completed several projects that highlight my analytical skills and ability to tell compelling data stories.My mission is to uncover actionable insights from data and create impactful, visually compelling reports.
+
+📊 What You'll Find Here:
+Explore my collection of data analysis projects, including:
+SQL Challenges: Comprehensive solutions to complex case studies like Danny Ma's 8-Week SQL Challenge.
+Power BI Dashboards: Interactive reports showcasing data-driven insights for industries such as E-Commerce, Employee Attrition, Employee Credit-Card Spend, Global Superstore, Northwind Traders and Hotel Reservations.
+Python EDA: Exploratory data analysis projects diving into platforms like Spotify, YouTube, Anime, Apple-Tesla Stocks and Nobel Prize datasets etc.
+Advanced Analytics: Cohort analysis, RFM modeling and more!
 
 ## 🛠 Skills
 - **Excel**: Excel formulas, complex calculations and data manipulation,data cleaning etc.
@@ -75,6 +82,12 @@ This project dives into user engagement patterns and content success factors acr
 - https://github.com/SeldaBayman/Brazilian_Ecommerce_Data_Analysis
 - https://github.com/SeldaBayman/Northwind_Traders/blob/main/3_Sales.PNG
 
+🚀 My Vision:
+I aim to leverage my analytical skills to solve real-world problems and contribute to data-driven decision-making.
+
+📂 Knowledge is Power:
+I believe in continuous learning and love sharing insights from every project.
+
 ## 🎯 Future Goals
 As I advance in my career, I aim to deepen my expertise in machine learning and advanced analytics. My goal is to apply these skills to solve real-world problems and drive business growth, while staying updated with the latest industry trends.
 
@@ -82,9 +95,8 @@ As I advance in my career, I aim to deepen my expertise in machine learning and 
 - [LinkedIn]( https://www.linkedin.com/in/selda-bayman-b35ba871/)
 - Datawars (https://profiles.datawars.io/seldabayman)
 - HackerRank (https://www.hackerrank.com/profile/seldabayman)
-- Kaggle (                                                )
+- Kaggle (https://www.kaggle.com/seldabayman)
 - [Personal email](seldabayman@gmail.com)
-
 
 SeldaBayman/SeldaBayman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
