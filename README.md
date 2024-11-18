@@ -78,6 +78,7 @@ This project dives into user engagement patterns and content success factors acr
 [View Project](#) https://github.com/SeldaBayman/Spotify_Youtube_EDA
 
 **🏠 Housing in Brazil Analysis**
+
 **Objective:** Explore and analyze trends in the Brazilian housing market to uncover key insights.
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
 **Approach:**
@@ -86,7 +87,7 @@ Conducted exploratory data analysis to identify price trends and regional differ
 Visualized patterns and correlations with Matplotlib and Seaborn.
 Outcome: Provided actionable insights into housing market trends, highlighting regional price disparities and factors influencing property values.
 
-[View Project](#)
+[View Project](#) https://github.com/SeldaBayman/Housing_in-_Brazil_Analysis
 
 ## 🎓 Achievements
 - Completed [Kodlasam] from [Data Camp].
