@@ -95,10 +95,10 @@ Outcome: Provided actionable insights into housing market trends, highlighting r
 - https://github.com/SeldaBayman/Brazilian_Ecommerce_Data_Analysis
 - https://github.com/SeldaBayman/Northwind_Traders/blob/main/3_Sales.PNG
 
-🚀 My Vision:
+**🚀 My Vision:**
 I aim to leverage my analytical skills to solve real-world problems and contribute to data-driven decision-making.
 
-📂 Knowledge is Power:
+**📂 Knowledge is Power:**
 I believe in continuous learning and love sharing insights from every project.
 
 ## 🎯 Future Goals
