@@ -36,6 +36,17 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 
 [View Project](#)https://github.com/SeldaBayman/Northwind_Traders/tree/main/Customer_Analysis
 
+## 📈 Global Superstore Sales Analysis
+Objective: Analyze sales trends and performance metrics to uncover growth opportunities.
+
+**Tools Used:** Power BI
+
+**Approach:**
+Cleaned and transformed sales data using Power BI.
+Performed detailed trend analysis on profit, sales, and unit growth.
+Created interactive dashboards to visualize insights.
+**Outcome:**  Identified high-performing product categories and regions, enabling data-driven strategic planning for revenue growth.
+
 ### 📊 Sales Dashboard
 **Objective:** Develop an interactive sales dashboard to monitor key performance metrics.
 
