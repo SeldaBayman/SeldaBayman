@@ -47,6 +47,8 @@ Performed detailed trend analysis on profit, sales, and unit growth.
 Created interactive dashboards to visualize insights.
 **Outcome:**  Identified high-performing product categories and regions, enabling data-driven strategic planning for revenue growth.
 
+[View Project](#) https://github.com/SeldaBayman/Global-Superstore-Dashboard
+
 ### 📊 Sales Dashboard
 **Objective:** Develop an interactive sales dashboard to monitor key performance metrics.
 
@@ -59,9 +61,6 @@ Created interactive dashboards to visualize insights.
 
 **Outcome:** Enabled stakeholders to make data-driven decisions with real-time sales insights.
 
-[View Project](#)https://github.com/SeldaBayman/Northwind_Traders/blob/main/3_Sales.PNG
-https://github.com/SeldaBayman/Global_Superstore_Sales_2
--
 ### 📈 Spotify & Youtube EDA Project
 **Objective:** Analyze Spotify and Youtube Data Insights
 
@@ -82,7 +81,7 @@ This project dives into user engagement patterns and content success factors acr
 
 ## 🎓 Achievements
 - Completed [Kodlasam] from [Data Camp].
-- Recognized for outstanding performance in [EDA/ Brazilian_Ecommerce Data Analysis/Northwind Traders Data Analysis/Kohort Analysis etc.].
+- Recognized for outstanding performance in [EDA/ Brazilian_E-Commerce Data Analysis/Northwind Traders Data Analysis/Kohort Analysis etc.].
 - https://github.com/SeldaBayman/Brazilian_Ecommerce_Data_Analysis
 - https://github.com/SeldaBayman/Northwind_Traders/blob/main/3_Sales.PNG
 
