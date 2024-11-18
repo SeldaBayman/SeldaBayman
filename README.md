@@ -63,9 +63,7 @@ Created interactive dashboards to visualize insights.
 
 ### 📈 Spotify & Youtube EDA Project
 **Objective:** Analyze Spotify and Youtube Data Insights
-
 **Tools Used:** Phyton
-
 **Approach:**
 - Extracted and cleaned data using Phyton.
 - Analyzed data with Pandas,Numpy in Python.
@@ -78,6 +76,17 @@ Identified key EDA factors, helping develop targeted retention strategies.
 This project dives into user engagement patterns and content success factors across both platforms.
 
 [View Project](#) https://github.com/SeldaBayman/Spotify_Youtube_EDA
+
+**🏠 Housing in Brazil Analysis**
+**Objective:** Explore and analyze trends in the Brazilian housing market to uncover key insights.
+**Tools Used:** Python (Pandas, Matplotlib, Seaborn)
+**Approach:**
+Cleaned and prepared housing data using Pandas.
+Conducted exploratory data analysis to identify price trends and regional differences.
+Visualized patterns and correlations with Matplotlib and Seaborn.
+Outcome: Provided actionable insights into housing market trends, highlighting regional price disparities and factors influencing property values.
+
+[View Project](#)
 
 ## 🎓 Achievements
 - Completed [Kodlasam] from [Data Camp].
