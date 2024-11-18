@@ -6,10 +6,10 @@ I am a Junior Data Analyst with a passion for transforming data into actionable 
 ## 📊 What You'll Find Here:
 Explore my collection of data analysis projects, including:
 
-# SQL Challenges: Comprehensive solutions to complex case studies like Danny Ma's 8-Week SQL Challenge.
-# Power BI Dashboards: Interactive reports showcasing data-driven insights for industries such as E-Commerce, Employee Attrition, Employee Credit-Card Spend, Global Superstore, Northwind Traders and Hotel Reservations.
-# Python EDA: Exploratory data analysis projects diving into platforms like Spotify, YouTube, Anime, Apple-Tesla Stocks and Nobel Prize datasets etc.
-# Advanced Analytics: Cohort analysis, RFM modeling and more!
+#SQL Challenges: Comprehensive solutions to complex case studies like Danny Ma's 8-Week SQL Challenge.
+#Power BI Dashboards: Interactive reports showcasing data-driven insights for industries such as E-Commerce, Employee Attrition, Employee Credit-Card Spend, Global Superstore, Northwind Traders and Hotel Reservations.
+#Python EDA: Exploratory data analysis projects diving into platforms like Spotify, YouTube, Anime, Apple-Tesla Stocks and Nobel Prize datasets etc.
+#Advanced Analytics: Cohort analysis, RFM modeling and more!
 
 ## 🛠 Skills
 - **Excel**: Excel formulas, complex calculations and data manipulation,data cleaning etc.
