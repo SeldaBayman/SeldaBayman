@@ -40,7 +40,7 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 [View Project](#)https://github.com/SeldaBayman/Northwind_Traders/tree/main/Customer_Analysis
 
 ## 📈 Global Superstore Sales Analysis
-Objective: Analyze sales trends and performance metrics to uncover growth opportunities.
+**Objective:** Analyze sales trends and performance metrics to uncover growth opportunities.
 
 **Tools Used:** Power BI
 
@@ -52,26 +52,51 @@ Created interactive dashboards to visualize insights.
 
 [View Project](#) https://github.com/SeldaBayman/Global-Superstore-Dashboard
 
-### 📊 Sales Dashboard
-**Objective:** Develop an interactive sales dashboard to monitor key performance metrics.
 
-**Tools Used:** Power BI 
+## 💳 Employee Credit-Card Spend Dashboard
+**Objective:** Develop an interactive dashboard to monitor and analyze employee credit-card spending patterns.
+
+**Tools Used:** Power BI
 
 **Approach:**
-- Connected to various data sources in Power BI.
-- Created data models and calculated metrics using DAX.
-- Designed an interactive dashboard showcasing sales trends, top products, and regional performance.
+Connected to diverse data sources in Power BI.
+Built data models and calculated key metrics using DAX formulas.
+Designed an interactive dashboard highlighting spending trends, category-wise breakdowns, and employee-level insights.
 
-**Outcome:** Enabled stakeholders to make data-driven decisions with real-time sales insights.
+**Outcome:** Empowered stakeholders to track spending behaviors, identify cost-saving opportunities, and optimize expense management strategies.
+
+[View Project](#)https://github.com/SeldaBayman/Credit-Card-Spend-Dashboard
+
+### 🏨 Hotel Reservations Dashboard
+**Objective:** Develop an interactive dashboard to analyze hotel guest demographics, income patterns, and reservation trends.
+
+**Tools Used:** Power BI
+
+**Approach:**
+Connected to diverse data sources in Power BI.
+Built data models and calculated key performance metrics using DAX formulas.
+Designed an interactive dashboard showcasing guest income levels, reservation trends, cancellation rates, and seasonal booking patterns.
+
+**Outcome:**
+Enabled hotel management to:
+Understand guest income demographics and target high-value customer segments.
+Identify peak booking periods and plan staffing and resources accordingly.
+Reduce cancellation rates through insights into booking trends.
+Make data-driven decisions to optimize revenue and improve guest satisfaction.
+[View Project](#) https://github.com/SeldaBayman/Hotel-Analysis--Power-BI-project
+
 
 ### 📈 Spotify & Youtube EDA Project
+
 **Objective:** Analyze Spotify and Youtube Data Insights
+
 **Tools Used:** Phyton
+
 **Approach:**
 - Extracted and cleaned data using Phyton.
 - Analyzed data with Pandas,Numpy in Python.
 - Visualized trends and patterns using Matplotlib,Seaborn.
-
+  
 **Outcome:** 
 I am a data enthusiast with a passion for exploring and analyzing datasets to uncover trends and insights. 
 Recently, I completed an Exploratory Data Analysis (EDA) project comparing Spotify music data and YouTube video data. 
@@ -79,6 +104,34 @@ Identified key EDA factors, helping develop targeted retention strategies.
 This project dives into user engagement patterns and content success factors across both platforms.
 
 [View Project](#) https://github.com/SeldaBayman/Spotify_Youtube_EDA
+
+### 🏆 Nobel Prizes Analysis
+**Objective:** Conduct an in-depth analysis of Nobel Prize winners to uncover trends in laureates' demographics, prize categories, and historical patterns.
+
+**Tools Used:** Python (Pandas, Matplotlib, Seaborn)
+
+**Approach:**
+
+**Data Cleaning and Preparation:**
+Loaded and cleaned the Nobel Prize dataset using Pandas to handle missing values and standardize formats.
+Converted categorical variables into appropriate formats for analysis.
+
+**Exploratory Data Analysis (EDA):**
+Analyzed laureate demographics such as age, gender, and nationality.
+Explored prize distribution across categories and years.
+Investigated trends such as the youngest and oldest winners, repeat winners, and notable institutions.
+
+**Visualization:**
+Created detailed visualizations using Matplotlib and Seaborn to illustrate insights.
+Plotted trends over time, category-wise distributions, and country-based achievements.
+
+**Outcome:**
+Identified significant patterns such as:
+Most prizes awarded in Physics, Chemistry, and Medicine.
+The average age of laureates increasing over time, with distinct peaks in certain categories.
+The dominance of specific countries and institutions like the U.S., UK, and MIT in Nobel achievements.
+[View Project](#)https://github.com/SeldaBayman/Nobel_Prizes_Data_Analysis
+
 
 ### 🏠 Housing in Brazil Data Analysis
 
