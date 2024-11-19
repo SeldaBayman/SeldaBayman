@@ -111,12 +111,10 @@ This project dives into user engagement patterns and content success factors acr
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
 
 **Approach:**
-
-**Data Cleaning and Preparation:**
+Data Cleaning and Preparation:
 Loaded and cleaned the Nobel Prize dataset using Pandas to handle missing values and standardize formats.
 Converted categorical variables into appropriate formats for analysis.
-
-**Exploratory Data Analysis (EDA):**
+Exploratory Data Analysis (EDA):
 Analyzed laureate demographics such as age, gender, and nationality.
 Explored prize distribution across categories and years.
 Investigated trends such as the youngest and oldest winners, repeat winners, and notable institutions.
