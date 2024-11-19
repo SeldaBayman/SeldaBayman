@@ -131,7 +131,7 @@ The dominance of specific countries and institutions like the U.S., UK, and MIT 
 [View Project](#)https://github.com/SeldaBayman/Nobel_Prizes_Data_Analysis
 
 
-### 🏠 Housing in Brazil Data Analysis
+### 🏠 Housing in Brazil  Analysis
 
 **Objective:** Explore and analyze trends in the Brazilian housing market to uncover key insights.
 
