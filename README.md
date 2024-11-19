@@ -147,7 +147,7 @@ Outcome: Provided actionable insights into housing market trends, highlighting r
 
 ## 🎓 Achievements
 - Completed [Kodlasam] from [Data Camp].
-- Recognized for outstanding performance in [EDA/ Brazilian_E-Commerce Data Analysis/Northwind Traders Data Analysis/Kohort Analysis/RFM/Customer Segmentation etc.].
+- Recognized for outstanding performance in [Youtube versus Spotify EDA/ Brazilian_E-Commerce /Nobel Prizes/ Northwind Traders/ Hotel Reservations/ Kohort /RFM/ Customer Segmentation,CRM Analytics etc.].
 - https://github.com/SeldaBayman/Brazilian_Ecommerce_Data_Analysis
 - https://github.com/SeldaBayman/Northwind_Traders/blob/main/3_Sales.PNG
 
