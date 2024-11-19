@@ -22,10 +22,10 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 
 ## 🏆 Projects
 
-### 📈 Northwind Customer  Analysis
-**Objective:** Analyze customer trend data to identify patterns .
+### 📈 Northwind Traders Customer,Sale,Supplier and Shipper Data Analysis
+**Objective:** Analyze customer,sale,supplier,shipper trend data to identify patterns .
 
-**Tools Used:** SQL
+**Tools Used:** SQL ,Phyton,Power BI
 
 **Approach:**
 - Extracted and cleaned data using SQL.
@@ -77,10 +77,12 @@ This project dives into user engagement patterns and content success factors acr
 
 [View Project](#) https://github.com/SeldaBayman/Spotify_Youtube_EDA
 
-**🏠 Housing in Brazil Analysis**
+### 🏠 Housing in Brazil Data Analysis
 
 **Objective:** Explore and analyze trends in the Brazilian housing market to uncover key insights.
+
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
+
 **Approach:**
 Cleaned and prepared housing data using Pandas.
 Conducted exploratory data analysis to identify price trends and regional differences.
@@ -91,7 +93,7 @@ Outcome: Provided actionable insights into housing market trends, highlighting r
 
 ## 🎓 Achievements
 - Completed [Kodlasam] from [Data Camp].
-- Recognized for outstanding performance in [EDA/ Brazilian_E-Commerce Data Analysis/Northwind Traders Data Analysis/Kohort Analysis etc.].
+- Recognized for outstanding performance in [EDA/ Brazilian_E-Commerce Data Analysis/Northwind Traders Data Analysis/Kohort Analysis/RFM/Customer Segmentation etc.].
 - https://github.com/SeldaBayman/Brazilian_Ecommerce_Data_Analysis
 - https://github.com/SeldaBayman/Northwind_Traders/blob/main/3_Sales.PNG
 
