@@ -11,8 +11,11 @@ I am a Junior Data Analyst with a passion for transforming data into actionable 
 
 ## 📚 My Learning Journey
 
+## Excel
+Excel was one of the first tools I used to analyze and visualize data. I learned how to organize datasets, apply advanced formulas, and create dynamic pivot tables to uncover trends. Through hands-on practice and courses like [Kodlasam], I built strong skills in leveraging Excel for reporting and data-driven decision-making.
+
 ### SQL
-I began my data analysis journey with SQL, mastering the fundamentals of data manipulation and retrieval. Courses such as [Kodlasam] on [Data Camp] helped me develop skills in writing complex queries and performing data aggregation.
+SQL was the next tool I mastered after Excel, taking my data analysis skills to a deeper level. It allowed me to efficiently manipulate and retrieve large datasets directly from databases. Through courses like [Kodlasam] on [DataCamp], I learned how to write complex queries, perform data aggregation, join tables, and cleanse data for analysis. SQL became a foundational skill that enhanced my ability to analyze data in structured environments.
 
 ### Python
 Next, I explored Python, a versatile language crucial for data analysis. Through the [Kodlasam on [Data Camp], I learned data manipulation using Pandas, creating visualizations with Matplotlib and Seaborn, and performing statistical analysis.
@@ -22,8 +25,8 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 
 ## 🏆 Projects
 
-### 📈 Northwind Traders Customer,Sale,Supplier and Shipper Data Analysis
-**Objective:** Analyze customer,sale,supplier,shipper trend data to identify patterns .
+### 📈 Northwind Traders Customer,Sale,Supplier and Shipping Data Analysis
+**Objective:** Analyze customer,sale,supplier,shipping trends data to identify patterns .
 
 **Tools Used:** SQL ,Phyton,Power BI
 
