@@ -25,7 +25,7 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 
 ## 🏆 Projects
 
-### 📈 Northwind Traders Customer,Sale,Supplier and Shipping Data Analysis
+### 📈 Northwind Traders Customer,Sale,Supplier and Shipping  Analysis
 **Objective:** Analyze customer,sale,supplier,shipping trends data to identify patterns .
 
 **Tools Used:** SQL ,Phyton,Power BI
