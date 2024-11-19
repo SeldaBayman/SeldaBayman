@@ -83,6 +83,7 @@ Understand guest income demographics and target high-value customer segments.
 Identify peak booking periods and plan staffing and resources accordingly.
 Reduce cancellation rates through insights into booking trends.
 Make data-driven decisions to optimize revenue and improve guest satisfaction.
+
 [View Project](#) https://github.com/SeldaBayman/Hotel-Analysis--Power-BI-project
 
 
@@ -128,6 +129,7 @@ Identified significant patterns such as:
 Most prizes awarded in Physics, Chemistry, and Medicine.
 The average age of laureates increasing over time, with distinct peaks in certain categories.
 The dominance of specific countries and institutions like the U.S., UK, and MIT in Nobel achievements.
+
 [View Project](#)https://github.com/SeldaBayman/Nobel_Prizes_Data_Analysis
 
 
