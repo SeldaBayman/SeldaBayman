@@ -143,7 +143,8 @@ The dominance of specific countries and institutions like the U.S., UK, and MIT 
 Cleaned and prepared housing data using Pandas.
 Conducted exploratory data analysis to identify price trends and regional differences.
 Visualized patterns and correlations with Matplotlib and Seaborn.
-Outcome: Provided actionable insights into housing market trends, highlighting regional price disparities and factors influencing property values.
+
+**Outcome:** Provided actionable insights into housing market trends, highlighting regional price disparities and factors influencing property values.
 
 [View Project](#) https://github.com/SeldaBayman/Housing_in-_Brazil_Analysis
 
