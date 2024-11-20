@@ -106,6 +106,7 @@ Actionable Insights: Recommended strategies to enhance customer retention and lo
 **Outcome:**
 The analysis enabled precise customer targeting by providing a clear segmentation framework. This helps businesses identify their most valuable customers, re-engage inactive ones, and optimize marketing efforts effectively.
 
+[View Project](#)https://github.com/SeldaBayman/RFM-Analysis
 
 ### 📈 Spotify & Youtube EDA Project
 
