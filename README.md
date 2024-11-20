@@ -86,6 +86,26 @@ Make data-driven decisions to optimize revenue and improve guest satisfaction.
 
 [View Project](#) https://github.com/SeldaBayman/Hotel-Analysis--Power-BI-project
 
+### 🛒 RFM Analysis with Python: Unlocking Customer Insights
+
+**Objective:** Perform an RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchasing behavior and identify high-value customer segments for targeted marketing strategies.
+
+**Tools Used:** Python (Pandas, Matplotlib, Seaborn)
+
+**Approach:**
+Data Preparation: Cleaned and preprocessed the dataset to ensure accurate analysis.
+RFM Calculation:
+Recency: Calculated the days since each customer's last purchase.
+Frequency: Determined the number of purchases made by each customer.
+Monetary: Computed the total spend for each customer.
+Customer Segmentation: Scored customers for each RFM component, then categorized them into meaningful segments such as "Best Customers," "At Risk," and "Lost Customers."
+
+**Visualization:** Created insightful visualizations to highlight segment distributions and RFM relationships using Matplotlib and Seaborn.
+Actionable Insights: Recommended strategies to enhance customer retention and loyalty based on segment behavior.
+
+**Outcome:**
+The analysis enabled precise customer targeting by providing a clear segmentation framework. This helps businesses identify their most valuable customers, re-engage inactive ones, and optimize marketing efforts effectively.
+
 
 ### 📈 Spotify & Youtube EDA Project
 
