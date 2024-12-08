@@ -39,7 +39,7 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 
 [View Project](#)https://github.com/SeldaBayman/Northwind_Traders/tree/main/Customer_Analysis
 
-## 📈 Global Superstore Sales Analysis
+### 📈 Global Superstore Sales Analysis
 **Objective:** Analyze sales trends and performance metrics to uncover growth opportunities.
 
 **Tools Used:** Power BI
@@ -53,7 +53,7 @@ Created interactive dashboards to visualize insights.
 [View Project](#) https://github.com/SeldaBayman/Global-Superstore-Dashboard
 
 
-## 💳 Employee Credit-Card Spend Dashboard
+### 💳 Employee Credit-Card Spend Dashboard
 **Objective:** Develop an interactive dashboard to monitor and analyze employee credit-card spending patterns.
 
 **Tools Used:** Power BI
@@ -156,7 +156,7 @@ This project dives into user engagement patterns and content success factors acr
 
 [View Project](#) https://github.com/SeldaBayman/Spotify_Youtube_EDA
 
-### 🏆 Nobel Prizes Analysis
+### 🏆 Nobel Prizes EDA
 **Objective:** Conduct an in-depth analysis of Nobel Prize winners to uncover trends in laureates' demographics, prize categories, and historical patterns.
 
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
@@ -183,7 +183,7 @@ The dominance of specific countries and institutions like the U.S., UK, and MIT 
 [View Project](#)https://github.com/SeldaBayman/Nobel_Prizes_Data_Analysis
 
 
-### 🏠 Housing in Brazil  Analysis
+### 🏠 Housing in Brazil EDA
 
 **Objective:** Explore and analyze trends in the Brazilian housing market to uncover key insights.
 
