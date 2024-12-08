@@ -86,6 +86,35 @@ Make data-driven decisions to optimize revenue and improve guest satisfaction.
 
 [View Project](#) https://github.com/SeldaBayman/Hotel-Analysis--Power-BI-project
 
+### 📈 FLO Customer Lifetime Value Prediction Analysis
+
+**Objective:** Predict Customer Lifetime Value (CLTV) to drive targeted marketing strategies and enhance customer retention.
+
+**Tools Used:** Python (Pandas, Scikit-learn, Statsmodels, etc.)
+
+**Approach:**
+Performed comprehensive data cleaning and preprocessing using Python.
+Engineered meaningful features from customer behavior and transaction data.
+Developed and evaluated regression models for CLTV prediction.
+Visualized insights and evaluated model performance using key metrics.
+**Outcome:** Delivered actionable insights on customer value trends, enabling FLO to design precise marketing initiatives and improve business outcomes.
+
+[View Project](#)https://github.com/SeldaBayman/RFM-Analysis
+
+###  👟 Flo Shoes RFM Analysis
+
+**Objective:** Analyze Flo Shoes' customer purchase data to classify customers into segments and develop personalized marketing strategies.
+
+**Tools Used:** Python
+
+**Approach:**
+Extracted and cleaned data using SQL.
+Analyzed data with Pandas in Python.
+Visualized trends and patterns using Matplotlib.
+Outcome: Identified key customer segments through RFM analysis, enabling targeted campaigns to improve customer retention and loyalty.
+
+[View Project](#)https://github.com/SeldaBayman/FLO_RFM_Analysis
+
 ### 🛒 RFM Analysis with Python: Unlocking Customer Insights
 
 **Objective:** Perform an RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchasing behavior and identify high-value customer segments for targeted marketing strategies.
@@ -133,10 +162,10 @@ This project dives into user engagement patterns and content success factors acr
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
 
 **Approach:**
-Data Cleaning and Preparation:
+**Data Cleaning and Preparation:**
 Loaded and cleaned the Nobel Prize dataset using Pandas to handle missing values and standardize formats.
 Converted categorical variables into appropriate formats for analysis.
-Exploratory Data Analysis (EDA):
+**Exploratory Data Analysis (EDA):**
 Analyzed laureate demographics such as age, gender, and nationality.
 Explored prize distribution across categories and years.
 Investigated trends such as the youngest and oldest winners, repeat winners, and notable institutions.
@@ -170,10 +199,14 @@ Visualized patterns and correlations with Matplotlib and Seaborn.
 [View Project](#) https://github.com/SeldaBayman/Housing_in-_Brazil_Analysis
 
 ## 🎓 Achievements
-- Completed [Kodlasam] from [Data Camp].
-- Recognized for outstanding performance in [Youtube versus Spotify EDA/ Brazilian_E-Commerce /Nobel Prizes/ Northwind Traders/ Hotel Reservations/ Kohort /RFM/ Customer Segmentation,CRM Analytics etc.].
-- https://github.com/SeldaBayman/Brazilian_Ecommerce_Data_Analysis
-- https://github.com/SeldaBayman/Northwind_Traders/blob/main/3_Sales.PNG
+- Completed Data Analyst  - Kodlasam
+- Completed Excel, SQL, Phyton, Power BI, Entering E-Commerce -Kodlasam
+- Completed CRM Analytics -MIUUL
+- Completed Measurament Problems - MIUUL
+  
+- Recognized for outstanding performance in [Banking Dashboard, Youtube versus Spotify EDA, Brazilian_E-Commerce- SQL RFM,
+- Nobel Prizes EDA, Northwind Traders Dashboard, Hotel Reservations Dashboard,
+- Kohort Analysis, FLO RFM,  FLO CLTV-CLTV Prediction, CRM Analytics, Mesurament Problems, A/B Testing,  etc.]
 
 **🚀 My Vision:**
 I aim to leverage my analytical skills to solve real-world problems and contribute to data-driven decision-making.
