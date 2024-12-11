@@ -99,7 +99,7 @@ Make data-driven decisions to optimize revenue and improve guest satisfaction.
 
 [View Project](#) https://github.com/SeldaBayman/Hotel-Analysis--Power-BI-project
 
-### 📈 FLO Customer Lifetime Value Prediction Analysis
+### 📈 FLO Customer Lifetime Value (CLTV) Prediction Analysis
 
 **Objective:** Predict Customer Lifetime Value (CLTV) to drive targeted marketing strategies and enhance customer retention.
 
@@ -112,7 +112,7 @@ Developed and evaluated regression models for CLTV prediction.
 Visualized insights and evaluated model performance using key metrics.
 **Outcome:** Delivered actionable insights on customer value trends, enabling FLO to design precise marketing initiatives and improve business outcomes.
 
-[View Project](#)https://github.com/SeldaBayman/RFM-Analysis
+[View Project](#) [https://github.com/SeldaBayman/FLO-Shoes-CLTV-Prediction]
 
 ###  👟 Flo Shoes RFM Analysis
 
