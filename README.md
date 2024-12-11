@@ -25,6 +25,20 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 
 ## 🏆 Projects
 
+## 🏦 Banking Dashboard: Customer, Deposits, Income, and Risk Analysis
+**Objective: Develop a comprehensive analysis of customer demographics, banking deposits, estimated income levels, and risk assessment using detailed DAX calculations in Power BI.
+
+**Tools Used: Power BI, SQL
+
+**Approach:
+
+**Data Preparation: Extracted and transformed banking data to ensure consistency and accuracy.
+**DAX Calculations: Implemented complex measures such as Average Properties by Gender, Total Deposits by Gender, and Correlation Income CreditCard to uncover insights.
+**Visualizations: Built interactive dashboards showcasing deposit trends, income distribution, and risk evaluation by customer segments.
+**Outcome: Provided actionable insights for better customer segmentation and risk mitigation strategies, enabling banks to tailor their services effectively.
+
+[View Project](#)[https://github.com/SeldaBayman/Banking_Dashboard]
+
 ### 📈 Northwind Traders Customer,Sale,Supplier and Shipping  Analysis
 **Objective:** Analyze customer,sale,supplier,shipping trends data to identify patterns .
 
