@@ -31,10 +31,13 @@ To visualize my analyses, I turned to Power BI. The [Kodlasam] on [Data Camp] ta
 **Tools Used:** Power BI, SQL
 
 **Approach:**
+
+
 Data Preparation: Extracted and transformed banking data to ensure consistency and accuracy.
 DAX Calculations: Implemented complex measures such as Average Properties by Gender, Total Deposits by Gender, and Correlation Income CreditCard to uncover insights.
 Visualizations: Built interactive dashboards showcasing deposit trends, income distribution, and risk evaluation by customer segments.
-Outcome: Provided actionable insights for better customer segmentation and risk mitigation strategies, enabling banks to tailor their services effectively.
+
+**Outcome:** Provided actionable insights for better customer segmentation and risk mitigation strategies, enabling banks to tailor their services effectively.
 
 [View Project](#)[https://github.com/SeldaBayman/Banking_Dashboard]
 
