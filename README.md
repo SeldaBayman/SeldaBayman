@@ -238,6 +238,7 @@ As I advance in my career, I aim to deepen my expertise in machine learning and 
 - Datawars (https://profiles.datawars.io/seldabayman)
 - HackerRank (https://www.hackerrank.com/profile/seldabayman)
 - Kaggle (https://www.kaggle.com/seldabayman)
+- Medium(https://medium.com/@seldabayman) 
 - [Personal email](seldabayman@gmail.com)
 
 SeldaBayman/SeldaBayman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
