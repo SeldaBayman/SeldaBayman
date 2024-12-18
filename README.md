@@ -41,6 +41,23 @@ Visualizations: Built interactive dashboards showcasing deposit trends, income d
 
 [View Project](#)[https://github.com/SeldaBayman/Banking_Dashboard]
 
+
+## 📊 Cohort Analysis: Customer Behavior and Retention Trends
+**Objective:** Conduct an in-depth analysis of customer cohorts to understand retention trends and behavior patterns, providing actionable insights for business strategy.
+
+**Tools Used:** Power BI, SQL
+
+**Approach:**
+
+Data Preparation: Cleaned and transformed customer transaction data to align with cohort analysis requirements.
+DAX Calculations: Created dynamic measures such as Retention Rate by Cohort, Monthly Active Users, and Churn Rate.
+Visualizations: Designed interactive dashboards to display cohort-based retention trends, customer lifecycle patterns, and comparative segment analysis.
+Outcome:
+Delivered a clear understanding of customer retention dynamics and actionable recommendations for improving long-term engagement and loyalty. The insights enabled data-driven decision-making to optimize marketing and retention strategies.
+
+View Project: 
+
+
 ### 📈 Northwind Traders Customer,Sale,Supplier and Shipping  Analysis
 **Objective:** Analyze customer,sale,supplier,shipping trends data to identify patterns .
 
