@@ -55,7 +55,7 @@ Visualizations: Designed interactive dashboards to display cohort-based retentio
 Outcome:
 Delivered a clear understanding of customer retention dynamics and actionable recommendations for improving long-term engagement and loyalty. The insights enabled data-driven decision-making to optimize marketing and retention strategies.
 
-View Project: 
+View Project: https://github.com/SeldaBayman/Cohort-Analysis  
 
 
 ### 📈 Northwind Traders Customer,Sale,Supplier and Shipping  Analysis
