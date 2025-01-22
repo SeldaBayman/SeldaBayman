@@ -39,7 +39,7 @@ Visualizations: Built interactive dashboards showcasing deposit trends, income d
 
 **Outcome:** Provided actionable insights for better customer segmentation and risk mitigation strategies, enabling banks to tailor their services effectively.
 
-[View Project](#)[https://github.com/SeldaBayman/Banking_Dashboard]
+🔗 View Project: [https://github.com/SeldaBayman/Banking_Dashboard]
 
 
 ## 📊 Cohort Analysis: Customer Behavior and Retention Trends
@@ -55,7 +55,7 @@ Visualizations: Designed interactive dashboards to display cohort-based retentio
 Outcome:
 Delivered a clear understanding of customer retention dynamics and actionable recommendations for improving long-term engagement and loyalty. The insights enabled data-driven decision-making to optimize marketing and retention strategies.
 
-View Project: https://github.com/SeldaBayman/Cohort-Analysis  
+🔗 View Project: https://github.com/SeldaBayman/Cohort-Analysis  
 
 
 ### 📈 Northwind Traders Customer,Sale,Supplier and Shipping  Analysis
@@ -70,7 +70,7 @@ View Project: https://github.com/SeldaBayman/Cohort-Analysis
 
 **Outcome:** Identified key trader factors, helping develop targeted loyal customer strategies.
 
-[View Project](#)https://github.com/SeldaBayman/Northwind_Traders/tree/main/Customer_Analysis
+🔗 View Project: https://github.com/SeldaBayman/Northwind_Traders/tree/main/Customer_Analysis
 
 ### 📈 Global Superstore Sales Analysis
 **Objective:** Analyze sales trends and performance metrics to uncover growth opportunities.
@@ -83,7 +83,7 @@ Performed detailed trend analysis on profit, sales, and unit growth.
 Created interactive dashboards to visualize insights.
 **Outcome:**  Identified high-performing product categories and regions, enabling data-driven strategic planning for revenue growth.
 
-[View Project](#) https://github.com/SeldaBayman/Global-Superstore-Dashboard
+🔗 View Project: https://github.com/SeldaBayman/Global-Superstore-Dashboard
 
 
 ### 💳 Employee Credit-Card Spend Dashboard
@@ -98,7 +98,7 @@ Designed an interactive dashboard highlighting spending trends, category-wise br
 
 **Outcome:** Empowered stakeholders to track spending behaviors, identify cost-saving opportunities, and optimize expense management strategies.
 
-[View Project](#)https://github.com/SeldaBayman/Credit-Card-Spend-Dashboard
+🔗 View Project: https://github.com/SeldaBayman/Credit-Card-Spend-Dashboard
 
 ### 🏨 Hotel Reservations Dashboard
 **Objective:** Develop an interactive dashboard to analyze hotel guest demographics, income patterns, and reservation trends.
@@ -117,7 +117,7 @@ Identify peak booking periods and plan staffing and resources accordingly.
 Reduce cancellation rates through insights into booking trends.
 Make data-driven decisions to optimize revenue and improve guest satisfaction.
 
-[View Project](#) https://github.com/SeldaBayman/Hotel-Analysis--Power-BI-project
+🔗 View Project:  https://github.com/SeldaBayman/Hotel-Analysis--Power-BI-project
 
 ### 📈 FLO Customer Lifetime Value (CLTV) Prediction Analysis
 
@@ -132,7 +132,7 @@ Developed and evaluated regression models for CLTV prediction.
 Visualized insights and evaluated model performance using key metrics.
 **Outcome:** Delivered actionable insights on customer value trends, enabling FLO to design precise marketing initiatives and improve business outcomes.
 
-[View Project](#) [https://github.com/SeldaBayman/FLO-Shoes-CLTV-Prediction]
+🔗 View Project:  [https://github.com/SeldaBayman/FLO-Shoes-CLTV-Prediction]
 
 ###  👟 Flo Shoes RFM Analysis
 
@@ -146,7 +146,7 @@ Analyzed data with Pandas in Python.
 Visualized trends and patterns using Matplotlib.
 Outcome: Identified key customer segments through RFM analysis, enabling targeted campaigns to improve customer retention and loyalty.
 
-[View Project](#)https://github.com/SeldaBayman/FLO_RFM_Analysis
+🔗 View Project: https://github.com/SeldaBayman/FLO_RFM_Analysis
 
 ### 🛒 RFM Analysis with Python: Unlocking Customer Insights
 
@@ -168,7 +168,7 @@ Actionable Insights: Recommended strategies to enhance customer retention and lo
 **Outcome:**
 The analysis enabled precise customer targeting by providing a clear segmentation framework. This helps businesses identify their most valuable customers, re-engage inactive ones, and optimize marketing efforts effectively.
 
-[View Project](#)https://github.com/SeldaBayman/RFM-Analysis
+🔗 View Project: https://github.com/SeldaBayman/RFM-Analysis
 
 ### 📈 Spotify & Youtube EDA Project
 
@@ -187,7 +187,7 @@ Recently, I completed an Exploratory Data Analysis (EDA) project comparing Spoti
 Identified key EDA factors, helping develop targeted retention strategies.
 This project dives into user engagement patterns and content success factors across both platforms.
 
-[View Project](#) https://github.com/SeldaBayman/Spotify_Youtube_EDA
+🔗 View Project: https://github.com/SeldaBayman/Spotify_Youtube_EDA
 
 ### 🏆 Nobel Prizes EDA
 **Objective:** Conduct an in-depth analysis of Nobel Prize winners to uncover trends in laureates' demographics, prize categories, and historical patterns.
@@ -213,7 +213,63 @@ Most prizes awarded in Physics, Chemistry, and Medicine.
 The average age of laureates increasing over time, with distinct peaks in certain categories.
 The dominance of specific countries and institutions like the U.S., UK, and MIT in Nobel achievements.
 
-[View Project](#)https://github.com/SeldaBayman/Nobel_Prizes_Data_Analysis
+🔗 View Project: https://github.com/SeldaBayman/Nobel_Prizes_Data_Analysis
+
+
+### 🛒 Amazon Rating Products and Sorting Reviews
+**Objective:**
+This project aims to analyze and understand Amazon product ratings and review sorting by leveraging Python for exploratory data analysis (EDA), data manipulation, and visualization. The goal is to uncover insights into customer behavior and preferences while implementing advanced review sorting techniques.
+
+**Tools Used:**
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, TextBlob
+
+**Approach:**
+
+Data Preparation: Collected and cleaned Amazon product review data to ensure accuracy and consistency.
+Key Analyses Conducted:
+Product Rating Analysis – Identified trends and patterns in product ratings to assess customer satisfaction.
+Review Sorting Algorithms – Implemented sorting based on relevance, helpfulness, and sentiment polarity.
+Exploratory Data Analysis (EDA) – Applied statistical and graphical methods to uncover insights.
+Data Visualization – Created intuitive visualizations for better interpretability.
+
+**Dataset Overview:**
+The dataset consists of Amazon product reviews, including:
+Product details: Name, category, and specifications.
+Customer reviews: Text, ratings, helpfulness scores.
+Metadata: Review date, reviewer ID, and other key attributes.
+Source: Amazon Review Dataset (Replace with actual link if available).
+
+**Objectives:**
+Analyze the distribution of product ratings to identify key trends.
+Develop sorting algorithms based on:
+Relevance
+Helpfulness
+Sentiment polarity
+Visualize findings for enhanced interpretability.
+Insights Gained:
+
+Rating Trends: Highly rated products exhibit consistent patterns of customer satisfaction.
+Helpful Reviews: Certain linguistic and contextual elements influence review helpfulness.
+Sentiment Analysis: Positive reviews align with higher ratings, while critical reviews provide constructive insights.
+Methodology:
+
+Data Cleaning: Addressed missing values, duplicates, and text normalization for sentiment analysis.
+EDA: Examined rating distributions and their correlation with product features.
+Review Sorting: Applied NLP techniques to rank reviews by helpfulness and sentiment.
+Visualization: Created bar charts, scatter plots, and word clouds to illustrate key findings.
+
+**Tools and Technologies:**
+Python: Primary programming language.
+Libraries:
+pandas, NumPy: Data manipulation
+Matplotlib, Seaborn: Data visualization
+Scikit-learn: Machine learning
+NLTK, TextBlob: Sentiment analysis
+
+**Outcome:**
+Delivered actionable insights to help businesses improve product offerings and enhance customer experience by leveraging effective review sorting and rating analysis techniques.
+
+🔗 View Project: https://github.com/SeldaBayman/Amazon_Rating_Products_Sorting_Reviews
 
 
 ## 🎬 IMDb Movie Rating and Sorting Analysis
