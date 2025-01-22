@@ -216,20 +216,26 @@ The dominance of specific countries and institutions like the U.S., UK, and MIT 
 [View Project](#)https://github.com/SeldaBayman/Nobel_Prizes_Data_Analysis
 
 
-### 🏠 Housing in Brazil EDA
+## 🎬 IMDb Movie Rating and Sorting Analysis
+**Objective:**
+Developed an analytical project to evaluate and rank movies based on various scoring methodologies, focusing on enhancing decision-making for users by utilizing robust statistical techniques.
 
-**Objective:** Explore and analyze trends in the Brazilian housing market to uncover key insights.
-
-**Tools Used:** Python (Pandas, Matplotlib, Seaborn)
+**Tools Used:**
+Python, Pandas, Seaborn
 
 **Approach:**
-Cleaned and prepared housing data using Pandas.
-Conducted exploratory data analysis to identify price trends and regional differences.
-Visualized patterns and correlations with Matplotlib and Seaborn.
 
-**Outcome:** Provided actionable insights into housing market trends, highlighting regional price disparities and factors influencing property values.
+Data Preparation: Collected and processed IMDb movie data to ensure reliability and consistency.
+Scoring & Sorting Methods Implemented:
+Weighted Average Ratings – Balanced assessment of ratings considering different weight factors.
+BAR (Bayesian Average Rating) Score – Applied to minimize bias and produce more reliable rankings.
+Sorting Reviews Based on Average Rating – Identified top-rated movies based on user feedback.
+Wilson Lower Bound Score – Used to rank movies with a confidence interval approach for better review reliability.
+**Outcome:**
+Provided insightful visualizations and analysis to help users identify top-rated movies more effectively and make data-driven decisions.
 
-[View Project](#) https://github.com/SeldaBayman/Housing_in-_Brazil_Analysis
+🔗 View Project: https://github.com/SeldaBayman/IMDB-Weighted-Analysis
+
 
 ## 🎓 Achievements
 - Completed Data Analyst  - Kodlasam
