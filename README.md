@@ -236,10 +236,12 @@ Visualized patterns and correlations with Matplotlib and Seaborn.
 - Completed Excel, SQL, Phyton, Power BI, Entering E-Commerce -Kodlasam
 - Completed CRM Analytics -MIUUL
 - Completed Measurament Problems - MIUUL
+- Completed Big Data Sources Basics - MIUUL
+- Completed Digital Marketing -UDEMY 
   
 - Recognized for outstanding performance in [Banking Dashboard, Youtube versus Spotify EDA, Brazilian_E-Commerce- SQL RFM,
-- Nobel Prizes EDA, Northwind Traders Dashboard, Hotel Reservations Dashboard,
-- Kohort Analysis, FLO RFM,  FLO CLTV-CLTV Prediction, CRM Analytics, Mesurament Problems, A/B Testing,  etc.]
+- Nobel Prizes EDA, Northwind Traders Dashboard, Hotel Reservations Dashboard, Online Retail II RFM,
+- Cohort Analysis, FLO RFM,  FLO CLTV-CLTV Prediction, CRM Analytics, Mesurament Problems, A/B Testing,  etc.]
 
 **🚀 My Vision:**
 I aim to leverage my analytical skills to solve real-world problems and contribute to data-driven decision-making.
