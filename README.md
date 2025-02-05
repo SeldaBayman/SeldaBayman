@@ -25,6 +25,8 @@ To visualize my analyses, I turned to Power BI. The Kodlasam on Data Camp taught
 ## 🏆 PROJECTS
 
 🎯 ### 🏦 Banking Dashboard: Customer, Deposits, Income, and Risk Analysis
+
+
 **Objective:** Develop a comprehensive analysis of customer demographics, banking deposits, estimated income levels, and risk assessment using detailed DAX calculations in Power BI.
 
 **Tools Used:** Power BI, SQL
@@ -42,6 +44,8 @@ Visualizations: Built interactive dashboards showcasing deposit trends, income d
 
 
 🎯  ## 📊 Cohort Analysis: Customer Behavior and Retention Trends
+
+
 **Objective:** Conduct an in-depth analysis of customer cohorts to understand retention trends and behavior patterns, providing actionable insights for business strategy.
 
 **Tools Used:** Power BI, SQL
@@ -57,7 +61,9 @@ Delivered a clear understanding of customer retention dynamics and actionable re
 🔗 View Project: https://github.com/SeldaBayman/Cohort-Analysis  
 
 
-🎯 ### 📈 Northwind Traders Customer,Sale,Supplier and Shipping  Analysis
+### 📈 Northwind Traders Customer,Sale,Supplier and Shipping  Analysis
+
+
 **Objective:** Analyze customer,sale,supplier,shipping trends data to identify patterns .
 
 **Tools Used:** SQL ,Phyton,Power BI
@@ -71,7 +77,9 @@ Delivered a clear understanding of customer retention dynamics and actionable re
 
 🔗 View Project: https://github.com/SeldaBayman/Northwind_Traders/tree/main/Customer_Analysis
 
-🎯  ### 📈 Global Superstore Sales Analysis
+ ### 📈 Global Superstore Sales Analysis
+
+ 
 **Objective:** Analyze sales trends and performance metrics to uncover growth opportunities.
 
 **Tools Used:** Power BI
@@ -85,7 +93,9 @@ Created interactive dashboards to visualize insights.
 🔗 View Project: https://github.com/SeldaBayman/Global-Superstore-Dashboard
 
 
-🎯  ### 💳 Employee Credit-Card Spend Dashboard
+ ### 💳 Employee Credit-Card Spend Dashboard
+
+ 
 **Objective:** Develop an interactive dashboard to monitor and analyze employee credit-card spending patterns.
 
 **Tools Used:** Power BI
@@ -99,7 +109,9 @@ Designed an interactive dashboard highlighting spending trends, category-wise br
 
 🔗 View Project: https://github.com/SeldaBayman/Credit-Card-Spend-Dashboard
 
-🎯  ### 🏨 Hotel Reservations Dashboard
+ ### 🏨 Hotel Reservations Dashboard
+
+ 
 **Objective:** Develop an interactive dashboard to analyze hotel guest demographics, income patterns, and reservation trends.
 
 **Tools Used:** Power BI
@@ -118,7 +130,10 @@ Make data-driven decisions to optimize revenue and improve guest satisfaction.
 
 🔗 View Project:  https://github.com/SeldaBayman/Hotel-Analysis--Power-BI-project
 
-🎯  ### 📈 FLO Customer Lifetime Value (CLTV) Prediction Analysis
+
+ ### 📈 FLO Customer Lifetime Value (CLTV) Prediction Analysis
+
+ 
 
 **Objective:** Predict Customer Lifetime Value (CLTV) to drive targeted marketing strategies and enhance customer retention.
 
@@ -133,7 +148,9 @@ Visualized insights and evaluated model performance using key metrics.
 
 🔗 View Project:  [https://github.com/SeldaBayman/FLO-Shoes-CLTV-Prediction]
 
-🎯  ###  👟 Flo Shoes RFM Analysis
+ ###  👟 Flo Shoes RFM Analysis
+
+ 
 
 **Objective:** Analyze Flo Shoes' customer purchase data to classify customers into segments and develop personalized marketing strategies.
 
@@ -147,7 +164,9 @@ Outcome: Identified key customer segments through RFM analysis, enabling targete
 
 🔗 View Project: https://github.com/SeldaBayman/FLO_RFM_Analysis
 
-🎯  ### 🛒 RFM Analysis with Python: Unlocking Customer Insights
+  ### 🛒 RFM Analysis with Python: Unlocking Customer Insights
+
+  
 
 **Objective:** Perform an RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchasing behavior and identify high-value customer segments for targeted marketing strategies.
 
@@ -169,7 +188,9 @@ The analysis enabled precise customer targeting by providing a clear segmentatio
 
 🔗 View Project: https://github.com/SeldaBayman/RFM-Analysis
 
-🎯 ### 📈 Spotify & Youtube EDA Project
+### 📈 Spotify & Youtube EDA Project
+
+
 
 **Objective:** Analyze Spotify and Youtube Data Insights
 
@@ -188,7 +209,9 @@ This project dives into user engagement patterns and content success factors acr
 
 🔗 View Project: https://github.com/SeldaBayman/Spotify_Youtube_EDA
 
-🎯  ### 🏆 Nobel Prizes EDA
+### 🏆 Nobel Prizes EDA
+
+
 **Objective:** Conduct an in-depth analysis of Nobel Prize winners to uncover trends in laureates' demographics, prize categories, and historical patterns.
 
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
@@ -215,7 +238,9 @@ The dominance of specific countries and institutions like the U.S., UK, and MIT 
 🔗 View Project: https://github.com/SeldaBayman/Nobel_Prizes_Data_Analysis
 
 
-🎯  ### 🛒 Amazon Rating Products and Sorting Reviews
+ ### 🛒 Amazon Rating Products and Sorting Reviews
+
+ 
 **Objective:**
 This project aims to analyze and understand Amazon product ratings and review sorting by leveraging Python for exploratory data analysis (EDA), data manipulation, and visualization. The goal is to uncover insights into customer behavior and preferences while implementing advanced review sorting techniques.
 
@@ -271,7 +296,9 @@ Delivered actionable insights to help businesses improve product offerings and e
 🔗 View Project: https://github.com/SeldaBayman/Amazon_Rating_Products_Sorting_Reviews
 
 
-🎯 ## 🎬 IMDb Movie Rating and Sorting Analysis
+ ## 🎬 IMDb Movie Rating and Sorting Analysis
+
+ 
 **Objective:**
 Developed an analytical project to evaluate and rank movies based on various scoring methodologies, focusing on enhancing decision-making for users by utilizing robust statistical techniques.
 
