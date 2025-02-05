@@ -1,4 +1,37 @@
-# 👋 Hi, I'm [Selda Bayman]
+
+# Hi 👋, I'm Selda Bayman 
+** Junior Data Analyst | Exploring and learning CRM Analytics, Measurament Problems, Big Data Basics Sources and  Digital Marketing ** 
+
+📫 How to reach me: **seldabayman@gmail.com**  
+🔗 Connect with me: **[LinkedIn](https://www.linkedin.com/in/selda-bayman-b35ba871/)**  
+
+## 🚀 Data Analysis & Digital Marketing Languages and Tools:
+
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFDD44?style=for-the-badge&logo=python&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-3268C8?style=for-the-badge&logo=Google&logoColor=white)
+
+### ⚡ Big Data & Cloud Technologies:
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![YARN](https://img.shields.io/badge/YARN-0081CB?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+![MapReduce](https://img.shields.io/badge/MapReduce-FF6F00?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selda-bayman&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selda-bayman&layout=compact&theme=tokyonight)
+
+---
 
 ## 🚀 About Me
 I am a Junior Data Analyst with a passion for transforming data into actionable insights. My passion for data analysis began with a curiosity about how data influences decision-making, driving me to master Excel, SQL, Python, and Power BI. Over time, I've completed several projects that highlight my analytical skills and ability to tell compelling data stories. My mission is to uncover actionable insights from data and create impactful, visually compelling reports.
@@ -9,22 +42,10 @@ I am a Junior Data Analyst with a passion for transforming data into actionable 
 - **Python**: Data manipulation with Pandas, data visualization with Matplotlib and Seaborn, statistical analysis
 - **Power BI**: Interactive dashboards, DAX for data modeling, report sharing
 
-## 📚 My Learning Journey
-
-## Excel
-Excel was one of the first tools I used to analyze and visualize data. I learned how to organize datasets, apply advanced formulas, and create dynamic pivot tables to uncover trends. "I enhanced my Excel skills through hands-on practice and structured learning from platforms like Kodlasam and, focusing on advanced reporting and data-driven insights.
-
-### SQL
-SQL was the next tool I mastered after Excel, taking my data analysis skills to a deeper level. It allowed me to efficiently manipulate and retrieve large datasets directly from databases. Through courses like Kodlasam on DataCamp, I learned how to write complex queries, perform data aggregation, join tables, and cleanse data for analysis. SQL became a foundational skill that enhanced my ability to analyze data in structured environments.
-
-### Python
-Next, I explored Python, a versatile language crucial for data analysis. Python: Advanced data manipulation (Pandas), insightful data visualization (Matplotlib, Seaborn), and statistical modeling for data-driven solutions.
-### Power BI
-To visualize my analyses, I turned to Power BI. The Kodlasam on Data Camp taught me how to create interactive dashboards, use DAX for data modeling, and present insights effectively.
 
 ## 🏆 PROJECTS
 
-🎯 ### 🏦 Banking Dashboard: Customer, Deposits, Income, and Risk Analysis
+ ### 🏦 Banking Dashboard: Customer, Deposits, Income, and Risk Analysis
 
 
 **Objective:** Develop a comprehensive analysis of customer demographics, banking deposits, estimated income levels, and risk assessment using detailed DAX calculations in Power BI.
@@ -43,7 +64,7 @@ Visualizations: Built interactive dashboards showcasing deposit trends, income d
 🔗 View Project: [https://github.com/SeldaBayman/Banking_Dashboard]
 
 
-🎯  ## 📊 Cohort Analysis: Customer Behavior and Retention Trends
+ ## 📊 Cohort Analysis: Customer Behavior and Retention Trends
 
 
 **Objective:** Conduct an in-depth analysis of customer cohorts to understand retention trends and behavior patterns, providing actionable insights for business strategy.
