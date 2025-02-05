@@ -34,13 +34,7 @@
 ---
 
 ## 🚀 About Me
-I am a Junior Data Analyst with a passion for transforming data into actionable insights. My passion for data analysis began with a curiosity about how data influences decision-making, driving me to master Excel, SQL, Python, and Power BI. Over time, I've completed several projects that highlight my analytical skills and ability to tell compelling data stories. My mission is to uncover actionable insights from data and create impactful, visually compelling reports.
-
-## 🛠 Skills
-- **Excel**: Excel formulas, complex calculations and data manipulation,data cleaning etc.
-- **SQL**: Complex queries, window functions, data aggregation
-- **Python**: Data manipulation with Pandas, data visualization with Matplotlib and Seaborn, statistical analysis
-- **Power BI**: Interactive dashboards, DAX for data modeling, report sharing
+I am a Junior  Data Analyst with a passion for transforming data into actionable insights. My passion for data analysis began with a curiosity about how data influences decision-making, driving me to master Excel, SQL, Python, and Power BI. Over time, I've completed several projects that highlight my analytical skills and ability to tell compelling data stories. My mission is to uncover actionable insights from data and create impactful, visually compelling reports.
 
 
 ## 🏆 PROJECTS
