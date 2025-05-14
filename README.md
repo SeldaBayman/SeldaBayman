@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Selda Bayman 
-** Junior Data Analyst | Exploring and Learning CRM Analytics, Big Data Basics Sources and  Digital Marketing ** 
+** Data Analyst | Exploring and Learning CRM Analytics, Big Data Basics Sources and  Digital Marketing ** 
 
 📫 How to reach me: **seldabayman@gmail.com**  
 🔗 Connect with me: **[LinkedIn](https://www.linkedin.com/in/selda-bayman-b35ba871/)**  
