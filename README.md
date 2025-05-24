@@ -49,10 +49,11 @@ DAX Calculations:
 Developed key metrics such as Total Revenue by Store, Average Basket Size, Visitor-to-Sale Conversion Rate, and Year-over-Year Growth using optimized DAX logic.
 Visualizations: 
 Designed an intuitive dashboard layout with interactive filters, trend lines, and comparative KPIs across time periods, customer segments, and store locations.
-Outcome:
+
+**Outcome:**
 Enabled mall management to monitor performance in real time, identify underperforming stores, and optimize marketing campaigns based on foot traffic and sales patterns.
 
-🔗 View Project: [https://github.com/SeldaBayman/Istanbul_Shopping_Mall_Dashboard] 
+🔗 View Project: [(https://github.com/SeldaBayman/Istanbul_Mall_Data_Analysis)] 
 
 
  ### 🏦 Banking Dashboard: Customer, Deposits, Income, and Risk Analysis
@@ -85,7 +86,7 @@ Visualizations: Built interactive dashboards showcasing deposit trends, income d
 Data Preparation: Cleaned and transformed customer transaction data to align with cohort analysis requirements.
 DAX Calculations: Created dynamic measures such as Retention Rate by Cohort, Monthly Active Users, and Churn Rate.
 Visualizations: Designed interactive dashboards to display cohort-based retention trends, customer lifecycle patterns, and comparative segment analysis.
-Outcome:
+**Outcome:**
 Delivered a clear understanding of customer retention dynamics and actionable recommendations for improving long-term engagement and loyalty. The insights enabled data-driven decision-making to optimize marketing and retention strategies.
 
 🔗 View Project: https://github.com/SeldaBayman/Cohort-Analysis  
