@@ -40,9 +40,9 @@
 ## 🏬 Istanbul Shopping Mall Dashboard: Sales, Customer Footfall, and Store Performance Analysis
 Objective: Deliver a dynamic and insightful analysis of shopping mall performance through customer behavior tracking, sales trends, and store-level KPIs using advanced Power BI features and DAX measures.
 
-## Tools Used: Power BI, DAX, SQL, Excel
+**Tools Used:**  Power BI, DAX, SQL, Excel
 
-## Approach:
+**Approach:** 
 Data Preparation: 
 Cleaned and structured data from various sources, including sales transactions, store details, and customer entries, ensuring data integrity and alignment with reporting needs.
 DAX Calculations: 
