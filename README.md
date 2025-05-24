@@ -37,6 +37,20 @@
 
 ## 🏆 PROJECTS
 
+^### 🏬 Istanbul Shopping Mall Dashboard: Sales, Customer Footfall, and Store Performance Analysis
+Objective: Deliver a dynamic and insightful analysis of shopping mall performance through customer behavior tracking, sales trends, and store-level KPIs using advanced Power BI features and DAX measures.
+
+Tools Used: Power BI, DAX, SQL, Excel
+
+Approach:
+Data Preparation: Cleaned and structured data from various sources, including sales transactions, store details, and customer entries, ensuring data integrity and alignment with reporting needs.
+DAX Calculations: Developed key metrics such as Total Revenue by Store, Average Basket Size, Visitor-to-Sale Conversion Rate, and Year-over-Year Growth using optimized DAX logic.
+Visualizations: Designed an intuitive dashboard layout with interactive filters, trend lines, and comparative KPIs across time periods, customer segments, and store locations.
+Outcome: Enabled mall management to monitor performance in real time, identify underperforming stores, and optimize marketing campaigns based on foot traffic and sales patterns.
+
+🔗 View Project: [https://github.com/SeldaBayman/Istanbul_Shopping_Mall_Dashboard] 
+
+
  ### 🏦 Banking Dashboard: Customer, Deposits, Income, and Risk Analysis
 
 
